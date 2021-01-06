@@ -1,3 +1,3 @@
-mkdir data
-wget -q -O ./data/gapminder.csv http://bit.ly/2uh4s3g
-wget -q -O ./data/co2_mlo_surface-flask_1_ccgg_event.txt ftp://aftp.cmdl.noaa.gov/data/trace_gases/co2/flask/surface/co2_mlo_surface-flask_1_ccgg_event.txt
+# mkdir data
+wget -O gapminder.csv http://bit.ly/2uh4s3g
+wget -O co2_mlo_surface-flask_1_ccgg_event.txt ftp://aftp.cmdl.noaa.gov/data/trace_gases/co2/flask/surface/co2_mlo_surface-flask_1_ccgg_event.txt
